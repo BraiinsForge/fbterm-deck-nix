@@ -1,12 +1,28 @@
 {
   "nodes": {
+    "fbterm-src": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1764586351,
+        "narHash": "sha256-qO2nugeDA2HxpA7CZXB1Gqs4Xm+V9dB3Y1FNHY1YRUI=",
+        "owner": "BraiinsForge",
+        "repo": "fbterm-fork",
+        "rev": "a6aef9be2d164de6d10147984e6502fe787b4db8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "BraiinsForge",
+        "repo": "fbterm-fork",
+        "type": "github"
+      }
+    },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1763966396,
-        "narHash": "sha256-6eeL1YPcY1MV3DDStIDIdy/zZCDKgHdkCmsrLJFiZf0=",
+        "lastModified": 1764517877,
+        "narHash": "sha256-pp3uT4hHijIC8JUK5MEqeAWmParJrgBVzHLNfJDZxg4=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "5ae3b07d8d6527c42f17c876e404993199144b6a",
+        "rev": "2d293cbfa5a793b4c50d17c05ef9e385b90edf6c",
         "type": "github"
       },
       "original": {
@@ -18,6 +34,7 @@
     },
     "root": {
       "inputs": {
+        "fbterm-src": "fbterm-src",
         "nixpkgs": "nixpkgs"
       }
     }
