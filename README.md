@@ -33,7 +33,7 @@ The binary will be at `./result/bin/fbterm`.
 /tmp/fbterm -r 3 -n "ProFontExtended" -s 15 --font-width 11 -a -- htop < /dev/tty1 > /dev/tty1 2>&1
 ```
 
-- `-r 3` rotates the screen 270° (portrait mode for the Deck's display)
+- `-r 3` rotates the screen 270° (landscape mode for the Deck's display)
 - `-n "ProFontExtended"` sets the font (adjust to whatever you uploaded)
 - `-s 15` sets font size
 - `--font-width 11` adjusts character width
