@@ -81,11 +81,6 @@ The **Minecraftia** font renders best on the Deck's display:
 ./fbterm -r 3 -n "Minecraftia" -s 16 < /dev/tty1 > /dev/tty1 2>&1
 ```
 
-**With anti-aliasing (for other fonts):**
-```bash
-./fbterm -r 3 -n "mono" -s 14 -a < /dev/tty1 > /dev/tty1 2>&1
-```
-
 **Run a specific command (e.g., htop):**
 ```bash
 ./fbterm -r 3 -n "Minecraftia" -s 16 -- htop < /dev/tty1 > /dev/tty1 2>&1
@@ -93,7 +88,7 @@ The **Minecraftia** font renders best on the Deck's display:
 
 ## Building from Source
 
-Want to compile the terminals yourself? Check out [BUILD.md](BUILD.md) for complete instructions.
+Want to compile the terminal yourself? Check out [BUILD.md](BUILD.md) for complete instructions.
 
 ## License
 
