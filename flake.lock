@@ -3,11 +3,11 @@
     "fbterm-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1764586351,
-        "narHash": "sha256-qO2nugeDA2HxpA7CZXB1Gqs4Xm+V9dB3Y1FNHY1YRUI=",
+        "lastModified": 1764889579,
+        "narHash": "sha256-ljb5/wb5C8hWBRtVf0FLBdSWsTpxtPsKGpRpx7vpYu4=",
         "owner": "BraiinsForge",
         "repo": "fbterm-fork",
-        "rev": "a6aef9be2d164de6d10147984e6502fe787b4db8",
+        "rev": "a5d72b872b6b778cc1d3a40d65971257c7a15fae",
         "type": "github"
       },
       "original": {
@@ -18,11 +18,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1764517877,
-        "narHash": "sha256-pp3uT4hHijIC8JUK5MEqeAWmParJrgBVzHLNfJDZxg4=",
+        "lastModified": 1764667669,
+        "narHash": "sha256-7WUCZfmqLAssbDqwg9cUDAXrSoXN79eEEq17qhTNM/Y=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "2d293cbfa5a793b4c50d17c05ef9e385b90edf6c",
+        "rev": "418468ac9527e799809c900eda37cbff999199b6",
         "type": "github"
       },
       "original": {
