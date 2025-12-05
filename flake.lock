@@ -3,11 +3,11 @@
     "fbterm-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1764889579,
-        "narHash": "sha256-ljb5/wb5C8hWBRtVf0FLBdSWsTpxtPsKGpRpx7vpYu4=",
+        "lastModified": 1764948326,
+        "narHash": "sha256-M/nRvETEMmu30YwebT2iqD+BMMBIqoOioidHFtx8jgE=",
         "owner": "BraiinsForge",
         "repo": "fbterm-fork",
-        "rev": "a5d72b872b6b778cc1d3a40d65971257c7a15fae",
+        "rev": "3b8d9525b2087d9dea9fbca5925435ff486a8254",
         "type": "github"
       },
       "original": {
